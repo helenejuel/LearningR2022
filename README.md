@@ -1,20 +1,18 @@
-TODO: Add more to the title of your project here
+This is the Rproject for the 2022 Spring course
 
 # LearningR:
 
-TODO: Give a brief description of what your project is about
+This course is to teach researcher how to use R and github for reproducible research
 
-This project...
 
 # Brief description of folder and file contents
-
-TODO: As project evolves, add brief description of what is inside the data, doc and R folders.
 
 The following folders contain:
 
 - `data/`:
 - `doc/`:
 - `R/`:
+
 
 # Installing project R package dependencies
 
